@@ -1,46 +1,23 @@
-## Hi there, I'm Abhinav Mishra 👋
+<h1 align="center">I'm Abhinav Mishra</h1>
 
-🎓 **CS Student @ VIT Bhopal** | Cloud Computing Specialization  
-🛡️ **Focus Areas:** Cloud Computing, Exploratory Data Analysis in Data Science  
-💼 **Past Experience:** IT Summer Intern @ Indian Ordnance Factory Services (Govt. of India)
+<h3 align="center">3rd Year Student | 🎓 Cloud Computing Specialization | ⚡ AppSec & Backend Dev</h3>
 
----
+<p align="center">
+  <b>3rd Year CS Student · Cloud Security Enthusiast · Threat Automation Builder · System Learner</b>
+</p>
 
-### 🛠️ Tech Stack & Skills
-
-- **Cloud & DevOps:** AWS (EC2, Lambda, SNS), Git, GitHub
-- **Languages:** Python, C++, JavaScript (Node.js), Express.js, SQL
-- **Databases:** Microsoft SQL Server (MSSQL), Relational Databases
-- **Security & Networking:** Web Security, Intrusion Detection (SQLi), Computer Networking
-- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning
-
----
-
-### 🚀 Featured Project
-
-#### 🛡️ [SQL Injection Detection & Cloud Threat Alert System](https://github.com/Abhinav10067/SQL_injection_detection)
-*An automated application security pipeline that catches SQLi attacks in real-time and triggers cloud alerts.*
-- **Tech Stack:** Node.js, Express, MSSQL, AWS Lambda, AWS SNS, Regex
-- **Key Features:** Custom pattern-matching detection engine, dynamic IP blocking in MSSQL, and automated event notifications via AWS SNS.
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:priyanshu18mishra08@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Abhinav10067"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Abhinav10067&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-#### 🌀 Wind Turbine Efficiency Prediction & Data Analytics
-*Exploratory data analysis and machine learning model trained on wind turbine telemetry datasets to predict efficiency and power output.*
-- **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- **Key Features:** Data preprocessing, multi-feature correlation analysis, operational trend visualization, and machine learning model training.
-  
----
-### 📜 Certifications
+### 🚀 What I'm Building
 
-- ☁️ **AWS Cloud Quest:** Cloud Practitioner Training Badge
-- 🤖 **Google AI Essentials V1** & **IICT AI Readiness**
-- 🌐 **The Bits and Bytes of Computer Networking** (Google)
-- 📊 **Data Processing and Visualisation** (NASSCOM)
-
----
-
-### 📫 Connect With Me
-
-- **Email:** priyanshu18mishra08@gmail.com
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🛡️ **SQL Injection Detection** | Automated application security platform for real-time SQLi detection & threat alerts | ![Node.js](https://img.shields.io/badge/Node.js-68A063?style=flat-square&logo=node.js&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| 🌀 **Turbine Efficiency Predictor** | Time-series data analytics & machine learning pipeline to forecast turbine output | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white) |
