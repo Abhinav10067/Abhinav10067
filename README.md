@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Abhinav 👋</h1>
 
-<h3 align="center">⚡ Cloud Computing Student | 🛡️ AppSec & Systems Dev | ☁️ AWS Enthusiast</h3>
+<h3 align="center">⚡ Cloud Computing Student | 🛡️ AppSec & Devops | ☁️ AWS Enthusiast</h3>
 
 <p align="center">
   <b>B.Tech CS @ VIT Bhopal · Ex-IT Intern @ Ministry of Defence (Govt. of India) · Threat Automation Builder</b>
